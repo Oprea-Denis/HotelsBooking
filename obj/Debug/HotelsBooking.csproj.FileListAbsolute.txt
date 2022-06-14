@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\HotelsBooking\obj\Debug\HotelsBooking.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\HotelsBooking\obj\Debug\HotelsBooking.Properties.Resources.resources
+C:\Users\Denis\source\repos\HotelsBooking\obj\Debug\HotelsBooking.Views.HotelsView.resources
+C:\Users\Denis\source\repos\HotelsBooking\obj\Debug\HotelsBooking.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\HotelsBooking\obj\Debug\HotelsBooking.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\HotelsBooking\bin\Debug\HotelsBooking.exe.config
+C:\Users\Denis\source\repos\HotelsBooking\bin\Debug\HotelsBooking.exe
+C:\Users\Denis\source\repos\HotelsBooking\bin\Debug\HotelsBooking.pdb
+C:\Users\Denis\source\repos\HotelsBooking\obj\Debug\HotelsBooking.exe
+C:\Users\Denis\source\repos\HotelsBooking\obj\Debug\HotelsBooking.pdb
+C:\Users\Denis\source\repos\HotelsBooking\obj\Debug\HotelsBooking.Views.MainView.resources
+C:\Users\Denis\source\repos\HotelsBooking\obj\Debug\HotelsBooking.Views.LoginView.resources
+C:\Users\Denis\source\repos\HotelsBooking\obj\Debug\HotelsBooking.Views.UsersView.resources
+C:\Users\Denis\source\repos\HotelsBooking\obj\Debug\HotelsBooking.Views.RezervariView.resources
